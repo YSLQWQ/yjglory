@@ -1,5 +1,3 @@
 ### abcdefg
-('''
-print('you are pig!')
-print('666')
-''')
+  print('you are pig!')
+  print('666')
